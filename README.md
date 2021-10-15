@@ -18,8 +18,8 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-ronove](https://wa.me/6282182623238)
-* Kamu bisa testing fitur RO-BOT [disini](https://wa.me/62821826232389?text=.menu)
+* Info Lebih Lanjut, Chat [owner-ronove](https://wa.me/6285727740423
+* Kamu bisa mengujime fitur RO-BOT [disini](https://wa.me/6285727740423?text=.menu)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
